@@ -4,7 +4,7 @@
 
 编译后并创建第一人称射击模板C++项目
 
-![Fig1](img\Fig1.png)
+![Fig1]([img\Fig1.png](https://github.com/Rozannn/2024TencentUE5-Assignment0/blob/main/img/Fig1.png))
 
 将UnrealEditor.exe附加到进程即可在创建项目后自动在引擎中打开
 
