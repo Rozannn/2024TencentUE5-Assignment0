@@ -8,7 +8,7 @@
 
 将UnrealEditor.exe附加到进程即可在创建项目后自动在引擎中打开
 
-![Fig2](img\Fig2.png)
+![Fig2](https://github.com/Rozannn/2024TencentUE5-Assignment0/blob/main/img/Fig2.png)
 
 ### 打包安卓项目
 
@@ -42,11 +42,11 @@ if (TargetSDKVersion >= 23)
 
 在项目设置中添加如下三条Extra Permissions
 
-![Fig3](img\Fig3.png)
+![Fig3](https://github.com/Rozannn/2024TencentUE5-Assignment0/blob/main/img/Fig3.png)
 
 打包后的游戏运行视频为演示视频.mp4
 
-![Fig4](C:\UE_ASSIGNMENT\2024TencentUE5-Assignment0\img\Fig4.png)
+![Fig4](https://github.com/Rozannn/2024TencentUE5-Assignment0/blob/main/img/Fig4.png)
 
 
 
